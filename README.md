@@ -9,7 +9,7 @@ Building reliable backends and connecting them with practical AI.
 [![Email](https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:thisizzmobinrt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/mobin-rozati-b77807343)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mobinrt)
-
+[📄 Download my CV](https://github.com/mobinrt/mobinrt/raw/refs/heads/main/assets/Mobin_Rozati_Resume_CV.pdf)
 </div>
 
 ---
