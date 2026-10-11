@@ -43,7 +43,7 @@ Built FastMCP integrations that connect LLMs with retrieval pipelines and extern
 ## Core stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=java&white)
 ![Golang](https://img.shields.io/badge/Golang-3658AB?style=flat-square&logo=golang&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
