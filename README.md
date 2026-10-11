@@ -17,7 +17,7 @@ Building reliable backends and connecting them with practical AI.
 I'm a backend software engineer and Computer Engineering student at **K.N. Toosi University of Technology**. My work spans Python APIs, event-driven architecture, database optimization, LLM integrations, and computer vision.
 
 - **Backend engineering:** Django and FastAPI services, durable event processing, idempotency, replay, and crash recovery.
-- **AI systems:** MCP tools, retrieval-augmented generation, and LLM-powered applications.
+- **AI systems:** MCP tools, retrieval-augmented generation, ML, and LLM-powered applications.
 - **Research interests:** multi-agent deep reinforcement learning and digital-twin-assisted task offloading in vehicular edge computing.
 
 ## Selected projects
